@@ -4,6 +4,14 @@ Firebase + Riverpod 기반 Flutter Todo 앱
 
 ---
 
+## 스크린샷
+
+| List Screen | Draft 복원 다이얼로그 |
+|:-----------:|:--------------------:|
+| ![List Screen](assets/screenshots/list_screen.png) | ![Draft Dialog](assets/screenshots/draft_dialog.png) |
+
+---
+
 ## 구동 방법
 
 **요구사항**
