@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/ijihun/development/published-apps/daeja_admin/ios/**)",
+      "Bash(pod deintegrate:*)",
+      "Bash(pod install:*)",
+      "mcp__ide__getDiagnostics"
+    ]
+  }
+}
